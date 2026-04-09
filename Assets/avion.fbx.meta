@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 46dcd9246a656b44f81d5e01271951aa
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -196388382916747839
+    second: Alas principales|Alas principalesAction.001
+  - first:
+      74: -8718757771513378588
+    second: Alas principales|AlasTraserasAction.001
+  - first:
+      74: -3098781887078015531
+    second: Alas principales|BaseAction.001
+  - first:
+      74: 2600641221344183405
+    second: Alas principales|ColaAction.001
+  - first:
+      74: 2036089259070659721
+    second: Alas principales|Goma traseraAction.001
+  - first:
+      74: 4759556689372694562
+    second: Alas principales|GomasAction.001
+  - first:
+      74: 867882325507772262
+    second: Alas principales|Pata TraseraAction.001
+  - first:
+      74: 9191092053681158752
+    second: Alas principales|PatasAction.001
+  - first:
+      74: -2282504274961217230
+    second: Alas principales|Plane.001Action.001
+  - first:
+      74: -2678426159742442023
+    second: Alas principales|Plane.002Action.001
+  - first:
+      74: 4296003316293670441
+    second: Alas principales|PlaneAction.001
+  - first:
+      74: 7198706565504971405
+    second: Alas principales|PuntaAction.001
+  - first:
+      74: 159872879596356589
+    second: AlasTraseras|Alas principalesAction.001
+  - first:
+      74: -2494485773585292093
+    second: AlasTraseras|AlasTraserasAction.001
+  - first:
+      74: 5836887967477820368
+    second: AlasTraseras|BaseAction.001
+  - first:
+      74: 4870866765469574198
+    second: AlasTraseras|ColaAction.001
+  - first:
+      74: 291908601203890168
+    second: AlasTraseras|Goma traseraAction.001
+  - first:
+      74: 8871588374869849648
+    second: AlasTraseras|GomasAction.001
+  - first:
+      74: 3288249303994204827
+    second: AlasTraseras|Pata TraseraAction.001
+  - first:
+      74: 5279457082069762252
+    second: AlasTraseras|PatasAction.001
+  - first:
+      74: 1808284001591213013
+    second: AlasTraseras|Plane.001Action.001
+  - first:
+      74: -1937045928626383915
+    second: AlasTraseras|Plane.002Action.001
+  - first:
+      74: -2395934954413506452
+    second: AlasTraseras|PlaneAction.001
+  - first:
+      74: -3405031251299498513
+    second: AlasTraseras|PuntaAction.001
+  - first:
+      74: 7463008453488724593
+    second: Base|Alas principalesAction.001
+  - first:
+      74: -1624531242846935423
+    second: Base|AlasTraserasAction.001
+  - first:
+      74: -5717513778784918878
+    second: Base|BaseAction.001
+  - first:
+      74: -5132335250345483320
+    second: Base|ColaAction.001
+  - first:
+      74: -6952871534374632374
+    second: Base|Goma traseraAction.001
+  - first:
+      74: -2035019924170781856
+    second: Base|GomasAction.001
+  - first:
+      74: -8381735242673310611
+    second: Base|Pata TraseraAction.001
+  - first:
+      74: 944899047688983614
+    second: Base|PatasAction.001
+  - first:
+      74: 2047420979565099452
+    second: Base|Plane.001Action.001
+  - first:
+      74: -913435528231099800
+    second: Base|Plane.002Action.001
+  - first:
+      74: 7377521596021644535
+    second: Base|PlaneAction.001
+  - first:
+      74: 2074346264601907979
+    second: Base|PuntaAction.001
+  - first:
+      74: 2411038200253590782
+    second: Cola|Alas principalesAction.001
+  - first:
+      74: -7169688954344695952
+    second: Cola|AlasTraserasAction.001
+  - first:
+      74: -4842922386128813913
+    second: Cola|BaseAction.001
+  - first:
+      74: -3980411299724066958
+    second: Cola|ColaAction.001
+  - first:
+      74: 1332498938371509233
+    second: Cola|Goma traseraAction.001
+  - first:
+      74: 1809865889571602229
+    second: Cola|GomasAction.001
+  - first:
+      74: -4662205580632237767
+    second: Cola|Pata TraseraAction.001
+  - first:
+      74: -2605572496129008363
+    second: Cola|PatasAction.001
+  - first:
+      74: 8505508108686572806
+    second: Cola|Plane.001Action.001
+  - first:
+      74: 171452453787536167
+    second: Cola|Plane.002Action.001
+  - first:
+      74: 5256381718857457188
+    second: Cola|PlaneAction.001
+  - first:
+      74: -5222920004118100469
+    second: Cola|PuntaAction.001
+  - first:
+      74: 3860738239889315038
+    second: Goma trasera|Alas principalesAction.001
+  - first:
+      74: 2980510346700200015
+    second: Goma trasera|AlasTraserasAction.001
+  - first:
+      74: 6098442067061456873
+    second: Goma trasera|BaseAction.001
+  - first:
+      74: 5155952518552868303
+    second: Goma trasera|ColaAction.001
+  - first:
+      74: -5715930236374959625
+    second: Goma trasera|Goma traseraAction.001
+  - first:
+      74: 8654126439483787725
+    second: Goma trasera|GomasAction.001
+  - first:
+      74: 242262588864121651
+    second: Goma trasera|Pata TraseraAction.001
+  - first:
+      74: 6248791308343940054
+    second: Goma trasera|PatasAction.001
+  - first:
+      74: -6446268155029546750
+    second: Goma trasera|Plane.001Action.001
+  - first:
+      74: -7262158817956586831
+    second: Goma trasera|Plane.002Action.001
+  - first:
+      74: 446842781619697750
+    second: Goma trasera|PlaneAction.001
+  - first:
+      74: -4251555004100970228
+    second: Goma trasera|PuntaAction.001
+  - first:
+      74: 1935658625916492049
+    second: Gomas|Alas principalesAction.001
+  - first:
+      74: -3482706559418042091
+    second: Gomas|AlasTraserasAction.001
+  - first:
+      74: -4699465575840304130
+    second: Gomas|BaseAction.001
+  - first:
+      74: 435391979437364110
+    second: Gomas|ColaAction.001
+  - first:
+      74: -8229896461246187951
+    second: Gomas|Goma traseraAction.001
+  - first:
+      74: -7177504999534829433
+    second: Gomas|GomasAction.001
+  - first:
+      74: 5118445032564460225
+    second: Gomas|Pata TraseraAction.001
+  - first:
+      74: 7916304215266729110
+    second: Gomas|PatasAction.001
+  - first:
+      74: 8551887309448438620
+    second: Gomas|Plane.001Action.001
+  - first:
+      74: 7332749576576308192
+    second: Gomas|Plane.002Action.001
+  - first:
+      74: 7485002728888431653
+    second: Gomas|PlaneAction.001
+  - first:
+      74: -3755870191299686366
+    second: Gomas|PuntaAction.001
+  - first:
+      74: -3026185662616996774
+    second: Helice 1|Alas principalesAction.001
+  - first:
+      74: 6559627496760336593
+    second: Helice 1|AlasTraserasAction.001
+  - first:
+      74: 2263411118889081073
+    second: Helice 1|BaseAction.001
+  - first:
+      74: -3213345761685822565
+    second: Helice 1|ColaAction.001
+  - first:
+      74: 2546901798325558008
+    second: Helice 1|Goma traseraAction.001
+  - first:
+      74: -976917352925632262
+    second: Helice 1|GomasAction.001
+  - first:
+      74: 533899145347039814
+    second: Helice 1|Pata TraseraAction.001
+  - first:
+      74: -5425084722900341162
+    second: Helice 1|PatasAction.001
+  - first:
+      74: 1057503265536101475
+    second: Helice 1|Plane.001Action.001
+  - first:
+      74: -7979168275708061227
+    second: Helice 1|Plane.002Action.001
+  - first:
+      74: 4459866323485903212
+    second: Helice 1|PlaneAction.001
+  - first:
+      74: -7307189044359917046
+    second: Helice 1|PuntaAction.001
+  - first:
+      74: -9107591221752788514
+    second: Helice 2|Alas principalesAction.001
+  - first:
+      74: -4503592805034679338
+    second: Helice 2|AlasTraserasAction.001
+  - first:
+      74: 4583018125959618945
+    second: Helice 2|BaseAction.001
+  - first:
+      74: 7833407632340960925
+    second: Helice 2|ColaAction.001
+  - first:
+      74: -6619848290679013
+    second: Helice 2|Goma traseraAction.001
+  - first:
+      74: 7470727251528869182
+    second: Helice 2|GomasAction.001
+  - first:
+      74: 3625235400867615799
+    second: Helice 2|Pata TraseraAction.001
+  - first:
+      74: 5342048576516160033
+    second: Helice 2|PatasAction.001
+  - first:
+      74: -5747692386576531306
+    second: Helice 2|Plane.001Action.001
+  - first:
+      74: -9155685573937876060
+    second: Helice 2|Plane.002Action.001
+  - first:
+      74: -4958455834910294625
+    second: Helice 2|PlaneAction.001
+  - first:
+      74: -2789902536269057852
+    second: Helice 2|PuntaAction.001
+  - first:
+      74: 4108855488694012811
+    second: Helice 3|Alas principalesAction.001
+  - first:
+      74: -5981494147060870710
+    second: Helice 3|AlasTraserasAction.001
+  - first:
+      74: -8317491574862377810
+    second: Helice 3|BaseAction.001
+  - first:
+      74: 2234690376998960565
+    second: Helice 3|ColaAction.001
+  - first:
+      74: -5997248193011313018
+    second: Helice 3|Goma traseraAction.001
+  - first:
+      74: -8544200097141965277
+    second: Helice 3|GomasAction.001
+  - first:
+      74: -8463195564376562873
+    second: Helice 3|Pata TraseraAction.001
+  - first:
+      74: 5564790520473544885
+    second: Helice 3|PatasAction.001
+  - first:
+      74: -3071662376869711386
+    second: Helice 3|Plane.001Action.001
+  - first:
+      74: -6905678538629976721
+    second: Helice 3|Plane.002Action.001
+  - first:
+      74: -7717537446471853243
+    second: Helice 3|PlaneAction.001
+  - first:
+      74: -5412525153355319438
+    second: Helice 3|PuntaAction.001
+  - first:
+      74: 6036103259076477631
+    second: Pata Trasera|Alas principalesAction.001
+  - first:
+      74: -1200624534307215347
+    second: Pata Trasera|AlasTraserasAction.001
+  - first:
+      74: -3089853089307110512
+    second: Pata Trasera|BaseAction.001
+  - first:
+      74: -9080503870670312972
+    second: Pata Trasera|ColaAction.001
+  - first:
+      74: 6665994606069158802
+    second: Pata Trasera|Goma traseraAction.001
+  - first:
+      74: 1757743558589266315
+    second: Pata Trasera|GomasAction.001
+  - first:
+      74: 2445286118093233138
+    second: Pata Trasera|Pata TraseraAction.001
+  - first:
+      74: 3351767493940369411
+    second: Pata Trasera|PatasAction.001
+  - first:
+      74: -3243573663020684991
+    second: Pata Trasera|Plane.001Action.001
+  - first:
+      74: 8576197072595728266
+    second: Pata Trasera|Plane.002Action.001
+  - first:
+      74: -287322593775405245
+    second: Pata Trasera|PlaneAction.001
+  - first:
+      74: 5346266287998355828
+    second: Pata Trasera|PuntaAction.001
+  - first:
+      74: -586089220239717872
+    second: Patas|Alas principalesAction.001
+  - first:
+      74: 4379126176716053318
+    second: Patas|AlasTraserasAction.001
+  - first:
+      74: -5023770475307643375
+    second: Patas|BaseAction.001
+  - first:
+      74: -88773289537283233
+    second: Patas|ColaAction.001
+  - first:
+      74: -130450346583130831
+    second: Patas|Goma traseraAction.001
+  - first:
+      74: 3475572416293738762
+    second: Patas|GomasAction.001
+  - first:
+      74: 6516629884322377212
+    second: Patas|Pata TraseraAction.001
+  - first:
+      74: -680288051124586562
+    second: Patas|PatasAction.001
+  - first:
+      74: -2220890301619599778
+    second: Patas|Plane.001Action.001
+  - first:
+      74: -4766687439910887562
+    second: Patas|Plane.002Action.001
+  - first:
+      74: -7158670699433849047
+    second: Patas|PlaneAction.001
+  - first:
+      74: 7133243197491991942
+    second: Patas|PuntaAction.001
+  - first:
+      74: -6891931124914482353
+    second: Punta|Alas principalesAction.001
+  - first:
+      74: 3021046963872756180
+    second: Punta|AlasTraserasAction.001
+  - first:
+      74: -1491288790801992289
+    second: Punta|BaseAction.001
+  - first:
+      74: -647933720351124139
+    second: Punta|ColaAction.001
+  - first:
+      74: -8857714394151762142
+    second: Punta|Goma traseraAction.001
+  - first:
+      74: -7830771471689131500
+    second: Punta|GomasAction.001
+  - first:
+      74: 4788553635564208535
+    second: Punta|Pata TraseraAction.001
+  - first:
+      74: -4176083587092874293
+    second: Punta|PatasAction.001
+  - first:
+      74: -4345898700797653318
+    second: Punta|Plane.001Action.001
+  - first:
+      74: 926067256531744686
+    second: Punta|Plane.002Action.001
+  - first:
+      74: -2103136468534791304
+    second: Punta|PlaneAction.001
+  - first:
+      74: 2440406591457472580
+    second: Punta|PuntaAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
